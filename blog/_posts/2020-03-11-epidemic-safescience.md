@@ -75,7 +75,13 @@ For us that means UoE datastore, which is backed up to tape.
 
 ### Install any other software you might need
 
-### 
+## Look after yourself
+
+* Look after yourself and your physical/mental health first. For example, use the commuting time you save to do something for yourself. 
+* Aim for a consistent and well-defined workday schedule.
+* Remember to take breaks.
+* Set up your workspace (computer, monitor, keyboard, chair etc) so it's comfortable.
+* Stay connected and check in on each other. Use tools like slack/phones/skype for business to talk and avoid feeling overly isolated. If this goes on long, we can schedule regular "online coffee" or something.
 
 # You can be plenty productive during the epidemic
 
